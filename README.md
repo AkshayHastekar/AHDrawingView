@@ -3,7 +3,7 @@
 It is a UIView subclass using that you can draw anything on view, you can clear drawing and also you can get drawing Image.
 
 ## Preview
-<a href="https://imgflip.com/gif/1mhpkk"><img src="" title=""/></a>
+<a href="https://imgflip.com/gif/1mhpkk"><img src="https://i.imgflip.com/1mhpkk.gif" title=""/></a>
 
 ## Features
 
