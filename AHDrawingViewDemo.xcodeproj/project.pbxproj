@@ -17,6 +17,7 @@
 		BA3441551E8D15DC0026CAD7 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3441541E8D15DC0026CAD7 /* background.png */; };
 		BA3441591E8D1F790026CAD7 /* btnBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3441581E8D1F790026CAD7 /* btnBackground.png */; };
 		BA34415F1E8D2F830026CAD7 /* AHDrawingView.m in Sources */ = {isa = PBXBuildFile; fileRef = BA34415E1E8D2F830026CAD7 /* AHDrawingView.m */; };
+		BA4F550F1E8FB04B0069A724 /* ezgif.com-video-to-gif.gif in Resources */ = {isa = PBXBuildFile; fileRef = BA4F550E1E8FB04B0069A724 /* ezgif.com-video-to-gif.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		BA3441581E8D1F790026CAD7 /* btnBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btnBackground.png; sourceTree = "<group>"; };
 		BA34415D1E8D2F830026CAD7 /* AHDrawingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHDrawingView.h; sourceTree = "<group>"; };
 		BA34415E1E8D2F830026CAD7 /* AHDrawingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AHDrawingView.m; sourceTree = "<group>"; };
+		BA4F550E1E8FB04B0069A724 /* ezgif.com-video-to-gif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "ezgif.com-video-to-gif.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		BA34415A1E8D2D610026CAD7 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				BA4F550E1E8FB04B0069A724 /* ezgif.com-video-to-gif.gif */,
 				BA3441581E8D1F790026CAD7 /* btnBackground.png */,
 				BA3441541E8D15DC0026CAD7 /* background.png */,
 			);
@@ -178,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA3441391E8CF5340026CAD7 /* LaunchScreen.storyboard in Resources */,
+				BA4F550F1E8FB04B0069A724 /* ezgif.com-video-to-gif.gif in Resources */,
 				BA3441551E8D15DC0026CAD7 /* background.png in Resources */,
 				BA3441591E8D1F790026CAD7 /* btnBackground.png in Resources */,
 				BA3441361E8CF5340026CAD7 /* Assets.xcassets in Resources */,
