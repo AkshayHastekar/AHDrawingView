@@ -4,7 +4,7 @@ It is a UIView subclass using that you can draw anything on view, you can clear 
 
 ## Preview
 
-(images/ezgif.com-video-to-gif.gif)
+                      <a href="https://imgflip.com/gif/1mhpkk"><img src="https://i.imgflip.com/1mhpkk.gif" title="made at imgflip.com"/></a>
 
 
 ## Features
