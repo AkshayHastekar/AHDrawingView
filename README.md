@@ -37,7 +37,7 @@ Download the Sample and drag & drop the AHDrawingView.h and AHDrawingView.m in y
 
 ```objective-c
 
-    ahDrawingView.lineWidth = 2.0;
+     ahDrawingView.lineWidth = 2.0;
 
 ```
 
